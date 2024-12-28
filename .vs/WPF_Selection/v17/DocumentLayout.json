@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\courses\\revit Api\\Addin\\WPF_Selection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F34F38C-638B-4C23-AE20-93E7177368D8}|WPF_Selection\\WPF_Selection.csproj|E:\\courses\\revit Api\\Addin\\WPF_Selection\\wpf_selection\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F34F38C-638B-4C23-AE20-93E7177368D8}|WPF_Selection\\WPF_Selection.csproj|solutionrelative:wpf_selection\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F34F38C-638B-4C23-AE20-93E7177368D8}|WPF_Selection\\WPF_Selection.csproj|E:\\courses\\revit Api\\Addin\\WPF_Selection\\wpf_selection\\app.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F34F38C-638B-4C23-AE20-93E7177368D8}|WPF_Selection\\WPF_Selection.csproj|solutionrelative:wpf_selection\\app.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F34F38C-638B-4C23-AE20-93E7177368D8}|WPF_Selection\\WPF_Selection.csproj|E:\\courses\\revit Api\\Addin\\WPF_Selection\\wpf_selection\\uiselection.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F34F38C-638B-4C23-AE20-93E7177368D8}|WPF_Selection\\WPF_Selection.csproj|solutionrelative:wpf_selection\\uiselection.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F34F38C-638B-4C23-AE20-93E7177368D8}|WPF_Selection\\WPF_Selection.csproj|E:\\courses\\revit Api\\Addin\\WPF_Selection\\wpf_selection\\mainselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F34F38C-638B-4C23-AE20-93E7177368D8}|WPF_Selection\\WPF_Selection.csproj|solutionrelative:wpf_selection\\mainselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F34F38C-638B-4C23-AE20-93E7177368D8}|WPF_Selection\\WPF_Selection.csproj|e:\\courses\\revit api\\addin\\wpf_selection\\wpf_selection\\uiselection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F34F38C-638B-4C23-AE20-93E7177368D8}|WPF_Selection\\WPF_Selection.csproj|solutionrelative:wpf_selection\\uiselection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 361,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainSelection.cs",
+              "DocumentMoniker": "E:\\courses\\revit Api\\Addin\\WPF_Selection\\WPF_Selection\\MainSelection.cs",
+              "RelativeDocumentMoniker": "WPF_Selection\\MainSelection.cs",
+              "ToolTip": "E:\\courses\\revit Api\\Addin\\WPF_Selection\\WPF_Selection\\MainSelection.cs",
+              "RelativeToolTip": "WPF_Selection\\MainSelection.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:55:31.399Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UISelection.xaml.cs",
+              "DocumentMoniker": "E:\\courses\\revit Api\\Addin\\WPF_Selection\\WPF_Selection\\UISelection.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Selection\\UISelection.xaml.cs",
+              "ToolTip": "E:\\courses\\revit Api\\Addin\\WPF_Selection\\WPF_Selection\\UISelection.xaml.cs",
+              "RelativeToolTip": "WPF_Selection\\UISelection.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswE4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:41:04.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "E:\\courses\\revit Api\\Addin\\WPF_Selection\\WPF_Selection\\Filter.cs",
+              "RelativeDocumentMoniker": "WPF_Selection\\Filter.cs",
+              "ToolTip": "E:\\courses\\revit Api\\Addin\\WPF_Selection\\WPF_Selection\\Filter.cs",
+              "RelativeToolTip": "WPF_Selection\\Filter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:27:06.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.addin",
+              "DocumentMoniker": "E:\\courses\\revit Api\\Addin\\WPF_Selection\\WPF_Selection\\app.addin",
+              "RelativeDocumentMoniker": "WPF_Selection\\app.addin",
+              "ToolTip": "E:\\courses\\revit Api\\Addin\\WPF_Selection\\WPF_Selection\\app.addin",
+              "RelativeToolTip": "WPF_Selection\\app.addin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2024-12-23T20:06:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UISelection.xaml",
+              "DocumentMoniker": "E:\\courses\\revit Api\\Addin\\WPF_Selection\\WPF_Selection\\UISelection.xaml",
+              "RelativeDocumentMoniker": "WPF_Selection\\UISelection.xaml",
+              "ToolTip": "E:\\courses\\revit Api\\Addin\\WPF_Selection\\WPF_Selection\\UISelection.xaml",
+              "RelativeToolTip": "WPF_Selection\\UISelection.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T19:27:39.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

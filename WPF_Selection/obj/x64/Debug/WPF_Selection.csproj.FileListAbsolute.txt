@@ -1,0 +1,12 @@
+E:\courses\revit Api\Addin\WPF_Selection\WPF_Selection\bin\x64\Debug\app.addin
+E:\courses\revit Api\Addin\WPF_Selection\WPF_Selection\bin\x64\Debug\WPF_Selection.dll
+E:\courses\revit Api\Addin\WPF_Selection\WPF_Selection\bin\x64\Debug\WPF_Selection.pdb
+E:\courses\revit Api\Addin\WPF_Selection\WPF_Selection\obj\x64\Debug\WPF_Selection.csproj.AssemblyReference.cache
+E:\courses\revit Api\Addin\WPF_Selection\WPF_Selection\obj\x64\Debug\UISelection.g.cs
+E:\courses\revit Api\Addin\WPF_Selection\WPF_Selection\obj\x64\Debug\WPF_Selection_MarkupCompile.cache
+E:\courses\revit Api\Addin\WPF_Selection\WPF_Selection\obj\x64\Debug\WPF_Selection_MarkupCompile.lref
+E:\courses\revit Api\Addin\WPF_Selection\WPF_Selection\obj\x64\Debug\UISelection.baml
+E:\courses\revit Api\Addin\WPF_Selection\WPF_Selection\obj\x64\Debug\WPF_Selection.g.resources
+E:\courses\revit Api\Addin\WPF_Selection\WPF_Selection\obj\x64\Debug\WPF_Selection.csproj.CoreCompileInputs.cache
+E:\courses\revit Api\Addin\WPF_Selection\WPF_Selection\obj\x64\Debug\WPF_Selection.dll
+E:\courses\revit Api\Addin\WPF_Selection\WPF_Selection\obj\x64\Debug\WPF_Selection.pdb

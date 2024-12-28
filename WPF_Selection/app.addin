@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+  <AddIn Type="Command">
+
+    <Name>Info</Name>
+
+    <FullClassName>WPF_Selection.MainSelection</FullClassName>
+
+    <Text>MainSelection</Text>
+
+    <Description>Retrive Data</Description>
+
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+
+    <Assembly>WPF_Selection.dll</Assembly>
+    <AddInId>
+      42E797BF-CF49-42E6-9338-5BFDE80FF53A
+    </AddInId>
+
+    <VendorId>Abanoub Gamal</VendorId>
+
+    <VendorDescription>Abanoub Gamal, BIM Developer</VendorDescription>
+
+  </AddIn>
+
+</RevitAddIns>
